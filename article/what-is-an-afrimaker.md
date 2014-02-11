@@ -277,3 +277,6 @@ and can work without supervision. They actually prefer it, or
 eventually learn to do so.
 
 They are colourful. :)
+
+
+* Thanks to Stefania Druga, Martha Njeri Chelimo, and Ahmed Bastawy for reading drafts of this document. *
